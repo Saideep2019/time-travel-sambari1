@@ -1,5 +1,7 @@
 ﻿# Release Notes v1.0
 
-- Added initial zine content (intro and layout ideas).
-- Merged feature branches for layout, content, and polish.
-- See commits: add zine folder and intro.md, add code of conduct, add .gitignore.
+- Added zine content and intro with “time machine” reference.
+- Created branches and merged PRs for Layout, Content, and Polish.
+- Resolved a merge conflict.
+- Added LICENSE and CODE_OF_CONDUCT.
+- Created Git tags v0.1 and v1.0.
